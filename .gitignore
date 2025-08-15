@@ -21,3 +21,6 @@ Thumbs.db
 # Env
 .env
 .env.*
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.spring/
